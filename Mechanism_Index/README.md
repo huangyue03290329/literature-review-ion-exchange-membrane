@@ -12,3 +12,19 @@
 - 单列配位与离子间排斥 | U/V及稀土、Cu、Au | [2026_Zhao_Heavy_Metals](../08_Research_Notes/Batch_2026-11-26.md) | https://doi.org/10.1038/s41565-026-02147-8
 - 锁定微孔与尺寸筛分 | 不同尺寸与类别的烃 | [2026_Oxley_Locked_PIM](../08_Research_Notes/Batch_2026-11-26.md) | https://doi.org/10.1126/science.aed1111
 - 动态主客体孔道与Grotthuss传输 | OH−传导 | [2026_Xu_CB7](../08_Research_Notes/Batch_2026-11-26.md) | https://doi.org/10.1038/s41586-026-10666-6
+
+## 第二批：2026-11-26
+
+### 溶液选择性螯合 + 纳滤（Li/Mg）
+- [2024 Yong EDTA](../04_Li_Mg_Separation/2024_Yong_EDTA.md)
+- [2025 Yong HEDTA](../04_Li_Mg_Separation/2025_Yong_HEDTA.md)
+
+### 孔径筛分 + 亲和性（脂肪烃/芳香烃）
+- [2026 Cao COF](../05_COF_Membranes/2026_Cao_Crude_Oil.md)
+
+### 理论与综述（跨机制）
+- [2023 Wang NF metrics](../01_Review/2023_Wang_NF_Metrics.md)
+- [2025 Xu DLE](../01_Review/2025_Xu_DLE.md)
+- [2026 Chen first principles](../01_Review/2026_Chen_First_Principles.md)
+
+重复 DOI：10.1038/s41560-026-02049-y、10.1038/s41586-026-10666-6 已在首批记录；Chen 两份同 DOI 合并；Cao 正文和 SI 合并。PDF 未上传，IF 待核实。
